@@ -1,0 +1,16 @@
+{
+  "id": "20260529060203806-proposal-agent-a-e394cc",
+  "type": "proposal",
+  "from": "agent-a",
+  "to": "agent-b",
+  "body": "Local two-agent test from agent-a to agent-b.",
+  "paths": [
+    "local-test/**"
+  ],
+  "status": "sent",
+  "requiresHumanApproval": false,
+  "approvals": {},
+  "createdAt": "2026-05-29T06:02:03.806Z",
+  "updatedAt": "2026-05-29T06:02:03.806Z",
+  "receivedBy": []
+}
