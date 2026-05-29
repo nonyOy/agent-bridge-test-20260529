@@ -1,0 +1,14 @@
+{
+  "id": "20260529060724325-proposal-agent-a-4380aa",
+  "type": "proposal",
+  "from": "agent-a",
+  "to": "agent-b",
+  "body": "1",
+  "paths": [],
+  "status": "sent",
+  "requiresHumanApproval": false,
+  "approvals": {},
+  "createdAt": "2026-05-29T06:07:24.325Z",
+  "updatedAt": "2026-05-29T06:07:24.325Z",
+  "receivedBy": []
+}
