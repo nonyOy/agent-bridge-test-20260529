@@ -1,0 +1,23 @@
+{
+  "id": "thread-20260529174357110-43c31e",
+  "topic": "测试完整流程",
+  "status": "active",
+  "pausedReason": null,
+  "maxRounds": 3,
+  "createdAt": "2026-05-29T17:43:57.110Z",
+  "updatedAt": "2026-05-29T17:43:57.110Z",
+  "messages": [
+    {
+      "round": 1,
+      "from": "agent-a",
+      "type": "proposal",
+      "body": "测试方案内容",
+      "fileClaims": [
+        "a.cs",
+        "b.cs"
+      ],
+      "createdAt": "2026-05-29T17:43:57.110Z"
+    }
+  ],
+  "conclusion": null
+}
