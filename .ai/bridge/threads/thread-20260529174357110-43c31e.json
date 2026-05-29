@@ -47,6 +47,8 @@
     },
     "locked": [],
     "pendingHumanApproval": true,
-    "approvedBy": []
+    "approvedBy": [
+      "agent-a"
+    ]
   }
 }
