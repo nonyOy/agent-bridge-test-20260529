@@ -1,11 +1,11 @@
 {
   "id": "thread-20260529174357110-43c31e",
   "topic": "测试完整流程",
-  "status": "active",
+  "status": "concluded",
   "pausedReason": null,
   "maxRounds": 3,
   "createdAt": "2026-05-29T17:43:57.110Z",
-  "updatedAt": "2026-05-29T17:44:02.649Z",
+  "updatedAt": "2026-05-29T17:44:08.081Z",
   "messages": [
     {
       "round": 1,
@@ -27,7 +27,26 @@
         "b.cs"
       ],
       "createdAt": "2026-05-29T17:44:02.649Z"
+    },
+    {
+      "round": 3,
+      "from": "agent-a",
+      "type": "agree",
+      "body": "确认划分",
+      "fileClaims": [],
+      "createdAt": "2026-05-29T17:44:08.081Z"
     }
   ],
-  "conclusion": null
+  "conclusion": {
+    "summary": "测试方案内容",
+    "fileOwnership": {
+      "agent-a": [
+        "a.cs",
+        "b.cs"
+      ]
+    },
+    "locked": [],
+    "pendingHumanApproval": true,
+    "approvedBy": []
+  }
 }
