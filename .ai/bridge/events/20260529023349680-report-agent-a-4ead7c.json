@@ -1,0 +1,16 @@
+{
+  "id": "20260529023349680-report-agent-a-4ead7c",
+  "type": "report",
+  "from": "agent-a",
+  "to": "agent-b",
+  "body": "Agent Bridge connectivity test: proxy-enabled Git push works.",
+  "paths": [
+    ".ai/bridge/**"
+  ],
+  "status": "sent",
+  "requiresHumanApproval": false,
+  "approvals": {},
+  "createdAt": "2026-05-29T02:33:49.680Z",
+  "updatedAt": "2026-05-29T02:33:49.680Z",
+  "receivedBy": []
+}
